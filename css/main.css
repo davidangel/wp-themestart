@@ -1,0 +1,11 @@
+/*---------- General ----------*/
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #0000ff;
+}
+#container {
+  width: 760px;
+  padding: 100px;
+  margin: 0 auto;
+  background: white;
+}

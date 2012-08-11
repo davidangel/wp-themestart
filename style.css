@@ -1,0 +1,18 @@
+/*
+Theme Name: THEMENAME
+Theme URI: http://
+Description: THEMEDESCRIPTION.
+Author: AUTHORNAME
+Author URI: http://
+Version: 0.1
+Tags: black
+
+License:
+License URI:
+
+General comments (optional).
+*/
+
+/*---------- Imports ----------*/
+@import url('css/reset.css');
+@import url('css/main.css');
